@@ -53,3 +53,6 @@ g++ client.cpp -o client -lpthread
 - To exit the chat room, type `#exit` and press Enter.
 - The server and clients communicate using sockets, and the messages are broadcasted to all connected clients.
 
+
+
+Last updated on: 2024-02-12
